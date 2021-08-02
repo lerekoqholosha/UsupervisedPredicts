@@ -8,6 +8,8 @@ Building movie reccomender engine
  
 - Exploratory Data Analysis
 
+- Data Preprocessing/Feature Engineering
+
 - Model building
  
 - Model evaluation
